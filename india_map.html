@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_c879be9821cf524ed9d2129e660c7cd2 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_c879be9821cf524ed9d2129e660c7cd2" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_c879be9821cf524ed9d2129e660c7cd2 = L.map(
+                "map_c879be9821cf524ed9d2129e660c7cd2",
+                {
+                    center: [20.5937, 78.9629],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 5,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_b5b115f44211c38609c02c5bb85090ee = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_b5b115f44211c38609c02c5bb85090ee.addTo(map_c879be9821cf524ed9d2129e660c7cd2);
+        
+    
+            var marker_a1fe99a6390e3c58dca03bd354dfbafd = L.marker(
+                [19.7515, 75.7139],
+                {}
+            ).addTo(map_c879be9821cf524ed9d2129e660c7cd2);
+        
+    
+            var icon_579f1ce1cea00477bb0c76ff07c4798e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_a1fe99a6390e3c58dca03bd354dfbafd.setIcon(icon_579f1ce1cea00477bb0c76ff07c4798e);
+        
+    
+        var popup_a5ae643956fb6d6bb07992d42abb762f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_293deb592c6f6b989c86dfe88902c0ab = $(`<div id="html_293deb592c6f6b989c86dfe88902c0ab" style="width: 100.0%; height: 100.0%;">Maharashtra: Capital: Mumbai, Known for: Bollywood, Gateway of India</div>`)[0];
+                popup_a5ae643956fb6d6bb07992d42abb762f.setContent(html_293deb592c6f6b989c86dfe88902c0ab);
+            
+        
+
+        marker_a1fe99a6390e3c58dca03bd354dfbafd.bindPopup(popup_a5ae643956fb6d6bb07992d42abb762f)
+        ;
+
+        
+    
+    
+            marker_a1fe99a6390e3c58dca03bd354dfbafd.bindTooltip(
+                `<div>
+                     Maharashtra
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_48f9b3f11bd33fafb388e05e5cca8fd3 = L.marker(
+                [10.8505, 76.2711],
+                {}
+            ).addTo(map_c879be9821cf524ed9d2129e660c7cd2);
+        
+    
+            var icon_7d132fb0b3295596319ebb74428b60ef = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_48f9b3f11bd33fafb388e05e5cca8fd3.setIcon(icon_7d132fb0b3295596319ebb74428b60ef);
+        
+    
+        var popup_abafe50d1506c559f045f7c9864fb20d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_25407ae98318f774504a526eecbeeabd = $(`<div id="html_25407ae98318f774504a526eecbeeabd" style="width: 100.0%; height: 100.0%;">Kerala: Capital: Thiruvananthapuram, Known for: Backwaters, Ayurveda</div>`)[0];
+                popup_abafe50d1506c559f045f7c9864fb20d.setContent(html_25407ae98318f774504a526eecbeeabd);
+            
+        
+
+        marker_48f9b3f11bd33fafb388e05e5cca8fd3.bindPopup(popup_abafe50d1506c559f045f7c9864fb20d)
+        ;
+
+        
+    
+    
+            marker_48f9b3f11bd33fafb388e05e5cca8fd3.bindTooltip(
+                `<div>
+                     Kerala
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_5cc29689f0c1cd1223217f591304b792 = L.marker(
+                [11.1271, 78.6569],
+                {}
+            ).addTo(map_c879be9821cf524ed9d2129e660c7cd2);
+        
+    
+            var icon_b4289255dba3d47d84dca5f03b3f99c0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_5cc29689f0c1cd1223217f591304b792.setIcon(icon_b4289255dba3d47d84dca5f03b3f99c0);
+        
+    
+        var popup_5604ae162e6a8a996e74430103d36090 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_25ec76187c4584164ba3e9b854b8093d = $(`<div id="html_25ec76187c4584164ba3e9b854b8093d" style="width: 100.0%; height: 100.0%;">Tamil Nadu: Capital: Chennai, Known for: Temples, Marina Beach</div>`)[0];
+                popup_5604ae162e6a8a996e74430103d36090.setContent(html_25ec76187c4584164ba3e9b854b8093d);
+            
+        
+
+        marker_5cc29689f0c1cd1223217f591304b792.bindPopup(popup_5604ae162e6a8a996e74430103d36090)
+        ;
+
+        
+    
+    
+            marker_5cc29689f0c1cd1223217f591304b792.bindTooltip(
+                `<div>
+                     Tamil Nadu
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9a79c1931c2e3cf7688a99130fdf93be = L.marker(
+                [15.3173, 75.7139],
+                {}
+            ).addTo(map_c879be9821cf524ed9d2129e660c7cd2);
+        
+    
+            var icon_3871bbd75c3ca073c3ff107a4ad8f2dd = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_9a79c1931c2e3cf7688a99130fdf93be.setIcon(icon_3871bbd75c3ca073c3ff107a4ad8f2dd);
+        
+    
+        var popup_9b2168702b960200024d30e03255a90c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_20b25fd8e77cdc64172f03a7810c3680 = $(`<div id="html_20b25fd8e77cdc64172f03a7810c3680" style="width: 100.0%; height: 100.0%;">Karnataka: Capital: Bangalore, Known for: IT Hub, Mysore Palace</div>`)[0];
+                popup_9b2168702b960200024d30e03255a90c.setContent(html_20b25fd8e77cdc64172f03a7810c3680);
+            
+        
+
+        marker_9a79c1931c2e3cf7688a99130fdf93be.bindPopup(popup_9b2168702b960200024d30e03255a90c)
+        ;
+
+        
+    
+    
+            marker_9a79c1931c2e3cf7688a99130fdf93be.bindTooltip(
+                `<div>
+                     Karnataka
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3f5e27e8e4c2ded13588588c583d510d = L.marker(
+                [22.9868, 87.855],
+                {}
+            ).addTo(map_c879be9821cf524ed9d2129e660c7cd2);
+        
+    
+            var icon_376702c92e7de29dd53eb958a3793666 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_3f5e27e8e4c2ded13588588c583d510d.setIcon(icon_376702c92e7de29dd53eb958a3793666);
+        
+    
+        var popup_14d74e7aed43d94fc0d4208f3e7b0847 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c173dd08ec5904921cd6b016f1a5ae67 = $(`<div id="html_c173dd08ec5904921cd6b016f1a5ae67" style="width: 100.0%; height: 100.0%;">West Bengal: Capital: Kolkata, Known for: Howrah Bridge, Durga Puja</div>`)[0];
+                popup_14d74e7aed43d94fc0d4208f3e7b0847.setContent(html_c173dd08ec5904921cd6b016f1a5ae67);
+            
+        
+
+        marker_3f5e27e8e4c2ded13588588c583d510d.bindPopup(popup_14d74e7aed43d94fc0d4208f3e7b0847)
+        ;
+
+        
+    
+    
+            marker_3f5e27e8e4c2ded13588588c583d510d.bindTooltip(
+                `<div>
+                     West Bengal
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f8c14179d486bbdc9364f890c1ec1e86 = L.marker(
+                [27.0238, 74.2179],
+                {}
+            ).addTo(map_c879be9821cf524ed9d2129e660c7cd2);
+        
+    
+            var icon_2ac7416f17b7f6b9df57827db8f23f15 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_f8c14179d486bbdc9364f890c1ec1e86.setIcon(icon_2ac7416f17b7f6b9df57827db8f23f15);
+        
+    
+        var popup_c111f9e6aa4050f36e70b0322fe8a78d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1b207e44592936c737205e6e8298e67c = $(`<div id="html_1b207e44592936c737205e6e8298e67c" style="width: 100.0%; height: 100.0%;">Rajasthan: Capital: Jaipur, Known for: Forts, Thar Desert</div>`)[0];
+                popup_c111f9e6aa4050f36e70b0322fe8a78d.setContent(html_1b207e44592936c737205e6e8298e67c);
+            
+        
+
+        marker_f8c14179d486bbdc9364f890c1ec1e86.bindPopup(popup_c111f9e6aa4050f36e70b0322fe8a78d)
+        ;
+
+        
+    
+    
+            marker_f8c14179d486bbdc9364f890c1ec1e86.bindTooltip(
+                `<div>
+                     Rajasthan
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0e0b799fe874b40a314c7b735d544321 = L.marker(
+                [31.1471, 75.3412],
+                {}
+            ).addTo(map_c879be9821cf524ed9d2129e660c7cd2);
+        
+    
+            var icon_c7e6ede949b93a63950dd388fe1595c0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_0e0b799fe874b40a314c7b735d544321.setIcon(icon_c7e6ede949b93a63950dd388fe1595c0);
+        
+    
+        var popup_f1a80b041f10a10a62b1e53e3712ded0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3185e4bab9a9e32c3d4714bdfae8285e = $(`<div id="html_3185e4bab9a9e32c3d4714bdfae8285e" style="width: 100.0%; height: 100.0%;">Punjab: Capital: Chandigarh, Known for: Golden Temple, Bhangra</div>`)[0];
+                popup_f1a80b041f10a10a62b1e53e3712ded0.setContent(html_3185e4bab9a9e32c3d4714bdfae8285e);
+            
+        
+
+        marker_0e0b799fe874b40a314c7b735d544321.bindPopup(popup_f1a80b041f10a10a62b1e53e3712ded0)
+        ;
+
+        
+    
+    
+            marker_0e0b799fe874b40a314c7b735d544321.bindTooltip(
+                `<div>
+                     Punjab
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e467c449d923864e72235f69e0ab8bbe = L.marker(
+                [22.2587, 71.1924],
+                {}
+            ).addTo(map_c879be9821cf524ed9d2129e660c7cd2);
+        
+    
+            var icon_245e4d8c6abaeb58a115a4cd64618222 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_e467c449d923864e72235f69e0ab8bbe.setIcon(icon_245e4d8c6abaeb58a115a4cd64618222);
+        
+    
+        var popup_8c3fe116f39c366d42dc40b8e52d757f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1c27aba08e9859eb6d2894d6ec9b885a = $(`<div id="html_1c27aba08e9859eb6d2894d6ec9b885a" style="width: 100.0%; height: 100.0%;">Gujarat: Capital: Gandhinagar, Known for: Gir Forest, Sabarmati Ashram</div>`)[0];
+                popup_8c3fe116f39c366d42dc40b8e52d757f.setContent(html_1c27aba08e9859eb6d2894d6ec9b885a);
+            
+        
+
+        marker_e467c449d923864e72235f69e0ab8bbe.bindPopup(popup_8c3fe116f39c366d42dc40b8e52d757f)
+        ;
+
+        
+    
+    
+            marker_e467c449d923864e72235f69e0ab8bbe.bindTooltip(
+                `<div>
+                     Gujarat
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_44727b8d1f51b11128b9d51f57d94773 = L.marker(
+                [26.8467, 80.9462],
+                {}
+            ).addTo(map_c879be9821cf524ed9d2129e660c7cd2);
+        
+    
+            var icon_794bc98df75a33c41bb29e911a6bb798 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_44727b8d1f51b11128b9d51f57d94773.setIcon(icon_794bc98df75a33c41bb29e911a6bb798);
+        
+    
+        var popup_cc64df43becb6c22324da13e543af47d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_613e743cff8058b088fb2ac9be414daf = $(`<div id="html_613e743cff8058b088fb2ac9be414daf" style="width: 100.0%; height: 100.0%;">Uttar Pradesh: Capital: Lucknow, Known for: Taj Mahal, Varanasi Ghats</div>`)[0];
+                popup_cc64df43becb6c22324da13e543af47d.setContent(html_613e743cff8058b088fb2ac9be414daf);
+            
+        
+
+        marker_44727b8d1f51b11128b9d51f57d94773.bindPopup(popup_cc64df43becb6c22324da13e543af47d)
+        ;
+
+        
+    
+    
+            marker_44727b8d1f51b11128b9d51f57d94773.bindTooltip(
+                `<div>
+                     Uttar Pradesh
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6c87c2f2c422dff28c79d3a3a636cb8b = L.marker(
+                [26.2006, 92.9376],
+                {}
+            ).addTo(map_c879be9821cf524ed9d2129e660c7cd2);
+        
+    
+            var icon_25329f1c49273c76a3e71841bc848eee = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_6c87c2f2c422dff28c79d3a3a636cb8b.setIcon(icon_25329f1c49273c76a3e71841bc848eee);
+        
+    
+        var popup_cc4d4536efcba8f3033d2ff8bdfa9c7b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_23cff4fd1bfd01e94c0c0d333be6a592 = $(`<div id="html_23cff4fd1bfd01e94c0c0d333be6a592" style="width: 100.0%; height: 100.0%;">Assam: Capital: Dispur, Known for: Tea Gardens, Kaziranga National Park</div>`)[0];
+                popup_cc4d4536efcba8f3033d2ff8bdfa9c7b.setContent(html_23cff4fd1bfd01e94c0c0d333be6a592);
+            
+        
+
+        marker_6c87c2f2c422dff28c79d3a3a636cb8b.bindPopup(popup_cc4d4536efcba8f3033d2ff8bdfa9c7b)
+        ;
+
+        
+    
+    
+            marker_6c87c2f2c422dff28c79d3a3a636cb8b.bindTooltip(
+                `<div>
+                     Assam
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>
