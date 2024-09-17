@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Discord Chatbox using Rust<br><br>🌱 I’m currently learning Rust and Java<br><br>❓ Ask me about anything related to Web Scrapping and Python<br><br>⚡ Fun fact: I use tabs over spaces
+🔭 I’m currently working on Rust <br><br>🌱 I’m currently learning Rust and Java<br><br>❓ Ask me about anything related to Web Scrapping and Python<br><br>⚡ Fun fact: I use tabs over spaces
 
 
 # 💻 Tech Stack:
