@@ -21,8 +21,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Blogposts
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![Medium](https://medium.com/@abhirampraneeth2005)
+![DEV.to](https://dev.to/abhiramp_2005)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ABHIRAM-CREATOR06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
