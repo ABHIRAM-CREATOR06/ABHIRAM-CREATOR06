@@ -15,7 +15,7 @@
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/download)
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/)
-[![Cursor](https://img.shields.io/badge/Cursor-white?style=for-the-badge&logo=cursor&logoColor=black)](https://www.cursor.com/)
+[![Cursor](https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor&logoColor=white)](https://www.cursor.com/)
 
 ## Operating System confident with:-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
