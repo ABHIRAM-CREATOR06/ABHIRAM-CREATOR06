@@ -21,9 +21,11 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Blogposts
+## Blogposts and Socials:-
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abhirampraneeth2005)
 [![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abhiramp_2005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiram-p-3a1b49290/)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ABHIRAM-CREATOR06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
