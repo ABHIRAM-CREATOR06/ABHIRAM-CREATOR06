@@ -35,6 +35,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ABHIRAM-CREATOR06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ABHIRAM-CREATOR06&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHIRAM-CREATOR06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=ABHIRAM-CREATOR06&color=blueviolet)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ABHIRAM-CREATOR06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
