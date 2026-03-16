@@ -96,7 +96,7 @@ I build things that scratch my own itches — mostly around **web scraping**, **
 
 <div align="center">
 
-![Top Contributed](https://github-contributor-stats.vercel.app/api?username=ABHIRAM-CREATOR06&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=0d1117&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABHIRAM-CREATOR06&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff)
 
 </div>
 
