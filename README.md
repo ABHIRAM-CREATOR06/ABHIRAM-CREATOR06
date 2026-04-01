@@ -74,9 +74,9 @@ I build things that scratch my own itches — mostly around **web scraping**, **
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABHIRAM-CREATOR06&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0&icon_color=00d4ff)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABHIRAM-CREATOR06&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)
+![Streak](https://streak-stats.demolab.com/?user=ABHIRAM-CREATOR06&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHIRAM-CREATOR06&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHIRAM-CREATOR06&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0&layout=compact&langs_count=8)
 
 </div>
 
@@ -86,7 +86,7 @@ I build things that scratch my own itches — mostly around **web scraping**, **
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ABHIRAM-CREATOR06&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=ABHIRAM-CREATOR06&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
