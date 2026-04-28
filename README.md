@@ -84,10 +84,10 @@ I build things that scratch my own itches — mostly around **web scraping**, **
 
 ## Trophies
 
+## 🏆 GitHub Trophies
+
 <div align="center">
-
-![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=ABHIRAM-CREATOR06&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ABHIRAM-CREATOR06&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
 </div>
 
 ---
