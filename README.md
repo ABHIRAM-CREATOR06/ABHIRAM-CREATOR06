@@ -16,8 +16,8 @@
 I build things that scratch my own itches — mostly around **web scraping**, **systems tooling**, and the occasional over-engineered side project. Currently going deep on Rust. I believe tabs are morally correct.
 
 - 🔭 Planning new projects (details soon)
-- 🌱 Learning **Rust** — ownership model finally clicked
-- 💬 Ask me about **Python**, **web scraping**, anything automation
+- 🌱 Mastering **Rust** — ownership model finally clicked
+- 💬 Ask me about **Python**, **web scraping**, anything related to Tooling
 - ⚡ Tabs > Spaces. This is not up for debate.
 
 ---
