@@ -11,14 +11,21 @@
 
 ---
 
-## About
+## 🧑‍💻 About Me
 
-I build things that scratch my own itches — mostly around **web scraping**, **systems tooling**, and the occasional over-engineered side project. Currently going deep on Rust. I believe tabs are morally correct.
+```rust
+struct Abhiram {
+    college:   "SNGCE — B.Tech CSE (APJAKTU) · Class of '27",
+    location:  "Kerala, India ",
+    focus:     ["Backend Dev", "Systems Programming", "Security"],
+    currently: "Going deep on Rust — ownership model finally clicked",
+    community: ["TinkerHub", "Kerala Startup Mission (KSUM)"],
+    ask_me:    ["Python", "Web Scraping", "Backend Tooling", "Rust"],
+    hot_take:  "Tabs > Spaces. Non-negotiable.",
+}
+```
 
-- 🔭 Planning new projects (details soon)
-- 🌱 Mastering **Rust** — ownership model finally clicked
-- 💬 Ask me about **Python**, **web scraping**, anything related to Tooling
-- ⚡ Tabs > Spaces. This is not up for debate.
+I build things that scratch my own itches — mostly around **web scraping**, **systems tooling**, and the occasional over-engineered side project. Currently going deep on Apache Spark and Databricks. I believe tabs are morally correct.
 
 ---
 
@@ -35,7 +42,14 @@ I build things that scratch my own itches — mostly around **web scraping**, **
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch_Script-5F4F4F?style=flat-square&logo=windows&logoColor=white)
+
+**Backend & Systems**
+
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Signal Protocol](https://img.shields.io/badge/Signal_Protocol-3A76F0?style=flat-square&logo=signal&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Frontend & Design**
 
@@ -48,23 +62,18 @@ I build things that scratch my own itches — mostly around **web scraping**, **
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoft&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
-**OS**
+**OS & Editors**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-**Editors**
-
 [![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](https://www.cursor.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=black)](https://www.jetbrains.com/pycharm/)
-[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=notepad%2b%2b&logoColor=black)](https://notepad-plus-plus.org/)
-[![Atom](https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=atom&logoColor=white)](https://atom-editor.cc/)
-[![CodePen](https://img.shields.io/badge/CodePen-white?style=flat-square&logo=codepen&logoColor=black)](https://codepen.io/)
 
 ---
 
@@ -82,21 +91,20 @@ I build things that scratch my own itches — mostly around **web scraping**, **
 
 ---
 
-## Trophies
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ABHIRAM-CREATOR06&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
-</div>
-
----
-
 ## Top Contributions
 
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABHIRAM-CREATOR06&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff)
+
+</div>
+
+---
+## 📦 Recent Activity
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHIRAM-CREATOR06&theme=tokyonight)](https://github.com/ABHIRAM-CREATOR06)
 
 </div>
 
