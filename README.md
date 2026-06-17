@@ -15,7 +15,7 @@
 
 ```rust
 struct Abhiram {
-    college:   "SNGCE — B.Tech CSE (APJAKTU) · Class of '27",
+    college:   "B.Tech CSE (APJAKTU) · Class of '27",
     location:  "Kerala, India ",
     focus:     ["Backend Dev", "Systems Programming", "Security"],
     currently: "Going deep on Rust — ownership model finally clicked",
