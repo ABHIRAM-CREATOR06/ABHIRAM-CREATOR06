@@ -1,5 +1,7 @@
 <div align="center">
 
+# Hi, I'm Abhiram 👋
+
 **CS student from Kerala · Web scraping & Python · Learning Rust · Tabs over spaces**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiram-p-3a1b49290/)
@@ -11,22 +13,40 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```rust
-struct Abhiram {
-    college:   "B.Tech CSE (APJAKTU) · Class of '27",
-    location:  "Kerala, India ",
-    focus:     ["Backend Dev", "Systems Programming", "Security"],
-    former_update: "Going deep on Rust — ownership model finally clicked",
-    current: "going deep on Apache Spark and Databricks",
-    community: ["TinkerHub", "Kerala Startup Mission (KSUM)"],
-    ask_me:    ["Python", "Web Scraping", "Backend Tooling", "Rust"],
-    hot_take:  "Tabs > Spaces. Non-negotiable.",
-}
+```text
+                                 =+=++=                                             abhiram@github
+                               #@@@@@@@@@@@@@+=                                     ----------------------
+                             %@@@@@@@@@@@@@@@@@#                                    OS: Linux / Windows
+                           *@@@@@@@@@@@@@@@@@@@@%=                                  Host: B.Tech CSE, APJAKTU -- Class of '27
+                           @@@@@@@%#*+==+#%@@@@@@@+                                 Location: Kerala, India
+                          *@@@@@@*=-:...:--+@@@@@#                                  Editor: VS Code, Cursor, PyCharm
+                          *@@@@**=-:::-=+++++%@@@                                   
+                           @@@#*#%%%#=+%%%#*==@@%                                   Languages.Core: Python, Rust, TypeScript, JavaScript
+                            @@+*##**+::==---::#@++                                  Languages.More: Java, C, HTML, CSS
+                           :%@+--:===--===-:--+%*-                                  Backend: Flask, Node.js, WebSockets, REST APIs
+                            +%*==+++#****=++===+-                                   Data.Cloud: Databricks, Spark, Azure, MySQL, Power BI
+                            :+***++****+++==+=+                                     
+                              .**++=--=--:-=+++                                     Focus: Backend Dev, Systems Programming, Security
+                               .*#*+==-===++**=                                     Building: Halonyx Secura -- E2EE messenger (Signal Protocol)
+                                 #%%%%%%%%##*+=##+                                  Currently: Going deep on Apache Spark and Databricks
+                                %**#%%%%##*+==+@@%+                                 Hot.Take: Tabs > Spaces. Non-negotiable.
+                            :-+%@%+++++*++++=+%@%#%#*+=-                            
+                         =+*%@@%@@%#++====+*#@@%#%@%%%%%##*+-                       LinkedIn: linkedin.com/in/abhiram-p-3a1b49290
+                     =+*##%##%%%%@@@@%#####%@%%%@@%###########*+-                   Medium: @abhirampraneeth2005
+                  -*##%%##%####%%%%@@@@@@@@@@%@@@%####%%#########*=                 Dev.to: abhiramp_2005
+                 *%####%%%%##%%%@@@@@@@@@@@@@@@%%%%%##%%%#%%%%%%%#%*:               GitHub: ABHIRAM-CREATOR06
+                %%%%%%#%%#####%%%%%%%@@@@@@@%%%#%%%%#%#%%%%%%%%%%%%##:              
+               #@%%%@%%%%%####%%%%%%%%%%@%%%%%%%%%%#%%###%@%%%@%%%%%##-             
+              +@@@%@@%%%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@%@%@%%##=            
+              @@@@@@@@%%%%%%%%%#%%%%%@%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@%%##+           
+             %@@@@@@@@%%%%%%%%%%%%%%%%@@@%%%%%%%%%%%%%%%%%%%@@@@@@@@%%%#%-          
+            +@@@@@@@@@@@%%%%%%%%%%%%%@%%%%%@@%%%%%%%%%%%%%%@@@@@@@@@@@%%%#          
+            #@@@@@@@@@@@@%%%%%%%%%%@@%@@@@%%@@%%%%%%%%%%%@@@@@@@@@@@@@%%%%-         
+            @@@@@@@@@@@@@@@%%%%%%%@@%%%%@@%%@@@@@%%%%%%%@%@@@@@@@@@@@@@%%%*         
+            @@@@@@@@@@@@@@@@@%@@@@@@@@%%@@%%%@@@@@%%@@@@@@@@@@@@@@@@@@@%%%%         
+           *@@@@@@@@@@@@@@@@@%@@@@@@@%%%@@@%%%@@@@@%@@@@%@@@@@@@@@@@@@@%@%%=        
+           #@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@%%%@@@@%%@@@%%@@@@@@@@@@@@%%%%%*        
 ```
-
-I build things that scratch my own itches — mostly around **web scraping**, **systems tooling**, and the occasional over-engineered side project. Currently going deep on Apache Spark and Databricks. I believe tabs are morally correct.
 
 ---
 
@@ -42,7 +62,6 @@ I build things that scratch my own itches — mostly around **web scraping**, **
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 **Backend & Systems**
 
@@ -66,7 +85,6 @@ I build things that scratch my own itches — mostly around **web scraping**, **
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoft&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
 **OS & Editors**
 
@@ -101,6 +119,7 @@ I build things that scratch my own itches — mostly around **web scraping**, **
 </div>
 
 ---
+
 ## 📦 Recent Activity
 
 <div align="center">
