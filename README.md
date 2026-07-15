@@ -123,16 +123,6 @@
 
 ---
 
-## 📦 Recent Activity
-
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHIRAM-CREATOR06&theme=tokyonight)](https://github.com/ABHIRAM-CREATOR06)
-
-</div>
-
----
-
 <div align="center">
 
 Made with ❤️ · Kerala, India
