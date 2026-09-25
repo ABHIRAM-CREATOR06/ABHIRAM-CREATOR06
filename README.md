@@ -46,6 +46,7 @@
             @@@@@@@@@@@@@@@@@%@@@@@@@@%%@@%%%@@@@@%%@@@@@@@@@@@@@@@@@@@%%%%         
            *@@@@@@@@@@@@@@@@@%@@@@@@@%%%@@@%%%@@@@@%@@@@%@@@@@@@@@@@@@@%@%%=        
            #@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@%%%@@@@%%@@@%%@@@@@@@@@@@@%%%%%*        
+            @@@@@@@@@@@@@@@@@%@@@@@@@%%@@@%%%@@@@@%%@@@%%@@@@@@@@@@@@@%%%%*         
 ```
 
 ---
@@ -118,6 +119,20 @@
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABHIRAM-CREATOR06&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ABHIRAM-CREATOR06/ABHIRAM-CREATOR06/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ABHIRAM-CREATOR06/ABHIRAM-CREATOR06/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ABHIRAM-CREATOR06/ABHIRAM-CREATOR06/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
