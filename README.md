@@ -1,5 +1,7 @@
 # Abhiram P
 
+<img src="https://avatars.githubusercontent.com/u/175493779?v=4&s=240" alt="Profile photo of Abhiram P" width="120" height="120" align="right">
+
 Systems-oriented software engineer working on network simulation, applied cryptography, and backend tooling, mostly in Rust, Node.js, and C#.
 
 Computer Science at SNGCE (APJ AKTU), Kerala · class of 2027
