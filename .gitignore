@@ -1,0 +1,23 @@
+# Editor and IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local build output (the snake and city workflows build in CI)
+dist/
+node_modules/
+
+# Secrets and local config
+.env
+.env.*
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
